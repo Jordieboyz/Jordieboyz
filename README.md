@@ -5,9 +5,9 @@ Some information about me:
   :netherlands: Nationality: Netherlands
   :speaking_head: Language: dutch (native) English (profficient)
 
-Hobbies: 
-  :ski: Skiiing 
-  :game_die: puzzles
+Hobbies:  
+  :ski: Skiiing  
+  :game_die: puzzles  
 
 🏫 Study: HBO-ICT; Computer Science @ Utrecht University of Applied Science
 :mailbox_with_mail: E-mail: boer.jort@gmail.com

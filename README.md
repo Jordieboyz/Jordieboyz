@@ -10,7 +10,7 @@ Hobbies:
 :game_die: puzzles  
 
 🏫 Study: HBO-ICT; Computer Science @ Utrecht University of Applied Science  
-:mailbox_with_mail: E-mail: boer.jort@gmail.com  
+:mailbox_with_mail: E-mail: boer.jort.edu@gmail.com  
 📋 Web: <WorkInProgress>  
 📋 Linkedin: [View my profile](https://www.linkedin.com/in/jort-de-boer-in/).  
    
